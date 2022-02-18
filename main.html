@@ -1,0 +1,46 @@
+<html>
+<head>
+	<link rel="stylesheet" href="./style.css">
+</head>
+<div id="body">
+	<script src="./script.js"></script>
+	<body>
+		<div id="slideout">
+			<aside>
+				<h3>UPLOADS</h3>
+			</aside>
+			<div id="slideout_inner">
+				<form method="POST" action="/sounds" enctype="multipart/form-data">
+					<div>
+						<label for="sound_uploads">Choose file:</label>
+						<input name="soundfile" type="file" id="sound_uploads" accept=".wav, .mp3" multiple>
+					</div>
+					<p></p>
+					<div>
+						<label for="keys">Choose a Key:</label>
+						<select name="keys" id="keyDrop"></select>
+					</div>
+					<p></p>
+					<div>
+						<label for="kPhrase">Set Key Label:</label>
+						<input type="text" name="keyPhrase" id="keyPhrase"></select>
+					</div>
+					<p></p>
+					<button script="window.location.href = window.location.href">Submit</button>
+			</div>
+			</form>
+		</div>
+</div>
+
+<div class="black"></div>
+<div class="flex">
+	<div class="centering">
+		<img src="./image/logo.png" height=200em> </img>
+		<P>
+			Sound Board
+		<p>
+		<div id="focus" class="keys">
+		</div>
+		</body>
+
+</html>

@@ -1,0 +1,186 @@
+{
+    "keyMap": {
+        "1": {
+            "key": "a",
+            "keyCode": "65",
+            "file": "",
+            "phrase": "",
+            "played": "0"
+        },
+        "2": {
+            "key": "b",
+            "keyCode": "66",
+            "file": "",
+            "phrase": "",
+            "played": "0"
+        },
+        "3": {
+            "key": "c",
+            "keyCode": "67",
+            "file": "",
+            "phrase": "",
+            "played": "0"
+        },
+        "4": {
+            "key": "d",
+            "keyCode": "68",
+            "file": "",
+            "phrase": "",
+            "played": "0"
+        },
+        "5": {
+            "key": "e",
+            "keyCode": "69",
+            "file": "",
+            "phrase": "",
+            "played": "0"
+        },
+        "6": {
+            "key": "f",
+            "keyCode": "70",
+            "file": "",
+            "phrase": "",
+            "played": "0"
+        },
+        "7": {
+            "key": "g",
+            "keyCode": "71",
+            "file": "",
+            "phrase": "",
+            "played": "0"
+        },
+        "8": {
+            "key": "h",
+            "keyCode": "72",
+            "file": "",
+            "phrase": "",
+            "played": "0"
+        },
+        "9": {
+            "key": "i",
+            "keyCode": "73",
+            "file": "",
+            "phrase": "",
+            "played": "0"
+        },
+        "10": {
+            "key": "j",
+            "keyCode": "74",
+            "file": "",
+            "phrase": "",
+            "played": "0"
+        },
+        "11": {
+            "key": "k",
+            "keyCode": "75",
+            "file": "",
+            "phrase": "",
+            "played": "0"
+        },
+        "12": {
+            "key": "l",
+            "keyCode": "76",
+            "file": "",
+            "phrase": "",
+            "played": "0"
+        },
+        "13": {
+            "key": "m",
+            "keyCode": "77",
+            "file": "",
+            "phrase": "",
+            "played": "0"
+        },
+        "14": {
+            "key": "n",
+            "keyCode": "78",
+            "file": "",
+            "phrase": "",
+            "played": "0"
+        },
+        "15": {
+            "key": "o",
+            "keyCode": "79",
+            "file": "",
+            "phrase": "",
+            "played": "0"
+        },
+        "16": {
+            "key": "p",
+            "keyCode": "80",
+            "file": "",
+            "phrase": "",
+            "played": "0"
+        },
+        "17": {
+            "key": "q",
+            "keyCode": "81",
+            "file": "",
+            "phrase": "",
+            "played": "0"
+        },
+        "18": {
+            "key": "r",
+            "keyCode": "82",
+            "file": "",
+            "phrase": "",
+            "played": "0"
+        },
+        "19": {
+            "key": "s",
+            "keyCode": "83",
+            "file": "",
+            "phrase": "",
+            "played": "0"
+        },
+        "20": {
+            "key": "t",
+            "keyCode": "84",
+            "file": "",
+            "phrase": "",
+            "played": "0"
+        },
+        "21": {
+            "key": "u",
+            "keyCode": "85",
+            "file": "",
+            "phrase": "",
+            "played": "0"
+        },
+        "22": {
+            "key": "v",
+            "keyCode": "86",
+            "file": "",
+            "phrase": "",
+            "played": "0"
+        },
+        "23": {
+            "key": "w",
+            "keyCode": "87",
+            "file": "",
+            "phrase": "",
+            "played": "0"
+        },
+        "24": {
+            "key": "x",
+            "keyCode": "88",
+            "file": "",
+            "phrase": "",
+            "played": "0"
+        },
+        "25": {
+            "key": "y",
+            "keyCode": "89",
+            "file": "",
+            "phrase": "",
+            "played": "0"
+        },
+        "26": {
+            "key": "z",
+            "keyCode": "90",
+            "file": "",
+            "phrase": "",
+            "played": "0"
+        }
+    }
+}
